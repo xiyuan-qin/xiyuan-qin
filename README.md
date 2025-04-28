@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Enthusiast & Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Python+Developer;Machine+Learning+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Cpp+Developer;Machine+Learning+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <div align="center">
