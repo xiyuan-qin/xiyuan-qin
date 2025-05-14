@@ -109,7 +109,7 @@ Kubernetes    ██████░░░░░░░░░░░░░░░   
       <h3 align="center">Splay Tree Visualization</h3>
       <p align="center">
         <a href="https://github.com/xiyuan-qin/ds_course_design_qt" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xiyuan-qin&repo=spray_tree&theme=tokyonight&hide_border=true" alt="Splay Tree"/>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xiyuan-qin&repo=ds_course_design_qt&theme=tokyonight&hide_border=true" alt="Splay Tree"/>
         </a>
       </p>
       <p align="center">Qt-based visualization of Splay Tree operations</p>
@@ -118,7 +118,7 @@ Kubernetes    ██████░░░░░░░░░░░░░░░   
       <h3 align="center">Network Experiments</h3>
       <p align="center">
         <a href="https://github.com/xiyuan-qin/netApp" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xiyuan-qin&repo=ml-projects&theme=tokyonight&hide_border=true" alt="ML Projects"/>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xiyuan-qin&repo=netApp&theme=tokyonight&hide_border=true" alt="ML Projects"/>
         </a>
       </p>
       <p align="center">Collection of machine learning experiments</p>
