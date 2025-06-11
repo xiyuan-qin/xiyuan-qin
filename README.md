@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Xiyuan Qin</h1>
-<h3 align="center">Data Science Enthusiast & Software Developer</h3>
+<h3 align="center">Rubbish Generator & CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Cpp+Developer;Machine+Learning+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Cpp+Learner;Machine+Learninger;Not-Full-Stack+Developer;Data+Science+Student;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -17,10 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **data structure visualization projects**
 - 🌱 I'm currently learning at **Shandong University**
-- 👯 I'm looking to collaborate on **open source data science projects**
-- 💬 Ask me about **c++, Data Structures, Machine Learning**
 - 📫 Reach me at: [qxytunner@gmail.com](mailto:qxytunner@gmail.com)
 - ⚡ Fun fact: **I can solve a Rubik's cube in under a minute**
 
