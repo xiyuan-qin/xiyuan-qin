@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Xiyuan Qin</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">Rubbish Generator & CS Student</h3>
 
 <p align="center">
@@ -16,10 +16,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpuM3JnNnBrYmRtMTNiNmQzaWU5a29qdzB1cWMyeXNwM2xjcXNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
-
-- 🌱 I'm currently learning at **Shandong University**
-- 📫 Reach me at: [qxytunner@gmail.com](mailto:qxytunner@gmail.com)
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute**
 
 <br>
 
